@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    background-color: black;
+}
+
+.header {
+    height: 8vh;
+    background-color: white;
+    display: flex;
+}
